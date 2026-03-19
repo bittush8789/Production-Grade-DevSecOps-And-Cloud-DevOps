@@ -1,4 +1,4 @@
-# Batch-13 | Production-Grade DevSecOps, Cloud DevOps & AI for DevOps
+# Production-Grade DevSecOps, Cloud DevOps & AI for DevOps
 
 Welcome to the **official learning repository for Batch-13** by **DevOps Shack**.
 
